@@ -1,2 +1,4 @@
 welcome to citius tech
 hello
+
+New line added to file1
